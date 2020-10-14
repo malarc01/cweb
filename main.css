@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* font-family: 'Josefin Sans', sans-serif; */
+}
+.icons{
+    background-color:#01012e;
+    text-decoration: none;
+    color:#fff;
+}
+
+.icons a{
+    font-size: 25px;
+    transition: color 1s ease;
+    color:#fff;
+}
+
+.icons a:hover{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
