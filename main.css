@@ -136,26 +136,13 @@ body{
     margin-left: 35%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.about p{
+    font-size: 18px;
+    color: #01012e;
+}
+.fas{
+    color:#01012e;
+}
 
 /*===== end of About Us Section ==========*/
 
