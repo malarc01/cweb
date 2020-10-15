@@ -237,12 +237,73 @@ body{
 }
 .service-pic img{
     width: 100%;
-    
 }
-
-
-
-
+.service-inner-wrapper{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.left-service-item{
+    position: relative;
+    padding-right: 90px;
+    margin-bottom: 65px;
+    text-align: right;
+    margin-top: 35px;
+}
+.left-icon{
+    position: absolute;
+    right: 0;
+    top:-8px;
+    color: #01012e;
+    color:red;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
+.left-service-item h3{
+    /* background-color: red; */
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 21px;
+    color: #01012e;
+}
+.left-service-item p{
+    color: #000;
+    font-size: 18px;
+    font-size: 300;
+    line-height: 25px;
+}
+.right-service-item{
+    position: relative;
+    padding-left: 90px;
+    margin-bottom: 65px;
+    margin-top: 35px;
+    text-align: left;
+}
+.right-icon{
+    /* background-color: #1717f0; */
+    position: absolute;
+    left: 0;
+    top: -8px;
+    color: #01012e;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
+.right-service-item h3{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 21px;
+    color: #01012e;
+}
+.right-service-item p{
+    color: #000;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+}
+/*===== end of Services Section ==========*/
 
 
 
