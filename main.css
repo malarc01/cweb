@@ -304,7 +304,46 @@ body{
     line-height: 25px;
 }
 /*===== end of Services Section ==========*/
-/*===== end of Services Section ==========*/
+/*===== Testimonials ==========*/
+#testimonials{
+    background: #01012e;
+}
+.des-color{
+    color: rebeccapurple;
+}
+.main-img{
+    width:150px;
+}
+.testimonial p{
+    font-weight: bold;
+    color: #fff;
+}
+.testimonial h2{
+    font-weight: bold;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===== end of Testimonials ==========*/
 
 
 
