@@ -220,16 +220,25 @@ body{
     transition-delay: 0.4s;
 
 }
-
-
-
-
-
-
-
 /*===== End of Project Section ==========*/
-
-
+/*===== Service Section ==========*/
+#SERVICES .title-border{
+    content: "";
+    /* background-color: red; */
+    width: 30%;
+    height: 2px;
+    display: block;
+    background: block;
+    background-color: #01012e ;
+    border-radius: 50%;
+    margin: 1%;
+    margin-left: 35%;
+    /* border: 3px solid red; */
+}
+.service-pic img{
+    width: 100%;
+    
+}
 
 
 
