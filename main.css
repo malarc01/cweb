@@ -284,7 +284,7 @@ body{
     /* background-color: #1717f0; */
     position: absolute;
     left: 0;
-    top: -8px;
+    /* top: -8px; */
     color: #01012e;
     width: 90px;
     height: 90px;
@@ -322,29 +322,34 @@ body{
     font-weight: bold;
     color: #fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*===== end of Testimonials ==========*/
-
+.contact-us .title-border{
+    /* background: red; */
+    content: "";
+    width: 30%;
+    height: 2px;
+    display: block;
+    background: block;
+    background-color: #01012e;
+    border-radius: 50%;
+    margin: 1%;
+    margin-left: 35%;
+}
+.contact .fas{
+    color:#01012e
+}
+.contact .far{
+    color: #01012e;
+}
+.btn-cont{
+    background: #01012e;
+    color: #fff;
+}
+.btn-cont:hover{
+    color:#fff;
+    color: yellow;
+    /* border-radius: 10px 20px 10px 20px; */
+}
 
 
 
