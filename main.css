@@ -309,7 +309,8 @@ body{
     background: #01012e;
 }
 .des-color{
-    color: rebeccapurple;
+    color: #fff;
+    /* color: red; */
 }
 .main-img{
     width:150px;
@@ -317,6 +318,7 @@ body{
 .testimonial p{
     font-weight: bold;
     color: #fff;
+    /* background: red; */
 }
 .testimonial h2{
     font-weight: bold;
